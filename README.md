@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi, I'm Fahim Ahmed 👋
+I'm a Software Engineer.
+
+- 📱 This is my portfolio [my personal website](https://geekfahim.com).
+- 👌 I run multiple projects.
+- 💰 Let's can make money together. [Contact me](https://geekfahim.com/).
+- 👋 Let's connect. [Follow me](https://www.linkedin.com/geekfahim/) on Linkedin.
 
 <!--
 **geekfahim/geekfahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

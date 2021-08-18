@@ -1,7 +1,7 @@
 # Hi, I'm Fahim Ahmed 👋
 
 ### About Me
-I am a Software Engineer. Experienced in JavaScript-based programming, especially React and Redux, Vue Js as well as PHP and  Python. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge. 
+I am a Software Engineer. Experienced in JavaScript-based programming, especially React,Redux, Vue Js as well as PHP and  Python. Currently, I'm working with Laravel. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge. 
 
 <div align="center">
 <a href="https://geekfahim.com/">
@@ -62,3 +62,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### GitHub Stats 📈
+<p align="center">
+<a href="https://github.com/jeffreyc86">
+ <img src="https://github-readme-stats.vercel.app/api?username=geekfahim&show_icons=true&hide=stars&hide_border=true" alt="Geekfahim's GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekfahim&layout=compact&hide_border=true" alt="Geekfahim's Language Stats" />
+</a>
+</p>
+
+
+
+<div align='center'>
+
+![](https://komarev.com/ghpvc/?username=geekfahim&label=Profile+Views)
+
+</div>

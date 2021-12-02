@@ -1,8 +1,12 @@
 # Hi, I'm Fahim Ahmed 👋
 
 ### About Me
-I am a Software Engineer. Experienced in JavaScript-based programming, especially React,Redux, Vue Js as well as PHP and  Python. Currently, I'm working with Laravel. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge. 
-
+<div style="width:100%">
+<a style="width:40%" href="https://app.daily.dev/geekfahim"><img src="https://api.daily.dev/devcards/33edef579a6749cb9823b9914496e8d1.png?r=efx" width="400" alt="Fahim Ahmed's Dev Card"/></a>
+ <p style="width:60%">
+ I am a Software Engineer. Experienced in JavaScript-based programming, especially React,Redux, Vue Js as well as PHP and  Python. Currently, I'm working with Laravel. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge. 
+ </p>
+</div>
 <div align="center">
 <a href="https://geekfahim.com/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />

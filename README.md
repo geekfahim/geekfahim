@@ -6,7 +6,11 @@
  
    [![trophy](https://github-profile-trophy.vercel.app/?username=geekfahim)](https://github.com/geekfahim/github-profile-trophy)
  <p style="width:60%"> 
- I am a Software Engineer. Experienced in JavaScript-based programming, especially React,Redux, Vue Js as well as PHP and  Python. Currently, I'm working with Laravel. Committed to consistency and transparency, dedicated to continuous development, and energized by a challenge. 
+As a highly skilled Laravel developer with extensive experience in developing web applications, I have a strong understanding of PHP and the Laravel framework. I have worked on various projects, ranging from simple websites to complex enterprise applications, using the latest technologies and best practices. My experience has allowed me to develop a keen eye for detail, ensuring that all my projects are delivered to the highest standards.
+
+I am proficient in using Git for version control, and I have a good understanding of Agile methodology and project management tools such as Jira. I am also familiar with front-end technologies like HTML, CSS, and JavaScript, allowing me to build visually appealing and user-friendly applications.
+
+My passion for coding and problem-solving drives me to continuously expand my skillset and stay up-to-date with the latest trends and technologies. I am a team player and enjoy working with others to find creative solutions to complex problems. I am confident in my ability to deliver high-quality work and I am always eager to take on new challenges.
  </p>
 </div>
 <div align="center">

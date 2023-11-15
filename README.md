@@ -69,17 +69,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-### GitHub Stats 📈
-<p align="center">
-<a href="https://github.com/geekfahim">
- <img src="https://github-readme-stats.vercel.app/api?username=geekfahim&show_icons=true&hide=stars&hide_border=true" alt="Geekfahim's GitHub Stats" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekfahim&layout=compact&hide_border=true" alt="Geekfahim's Language Stats" />
-</a>
-</p>
-
-
-
 <div align='center'>
 
 ![](https://komarev.com/ghpvc/?username=geekfahim&label=Profile+Views)
